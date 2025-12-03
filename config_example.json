@@ -1,0 +1,21 @@
+{
+	"start_url": "https://quotes.toscrape.com/",
+	"item_selector": "div.quote",
+	"fields": {
+		"text": {
+			"selector": "span.text"
+		},
+		"author": {
+			"selector": "small.author"
+		},
+		"tags": {
+			"selector": "div.tags a.tag",
+			"multiple": true
+		}
+	},
+	"pagination": {
+		"next_page_selector": "li.next a",
+		"max_pages": 5
+	},
+	"delay_seconds": 1.0
+}
