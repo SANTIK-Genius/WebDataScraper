@@ -32,7 +32,7 @@ This project demonstrates:
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WebDataScraper.git
+git clone https://github.com/SANTIK-Genius/WebDataScraper.git
 cd WebDataScraper
 
 pip install -r requirements.txt
