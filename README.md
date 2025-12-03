@@ -1,4 +1,5 @@
 # WebDataScraper 🕸️
+<img width="1024" height="1024" alt="ChatGPT Image 4 дек  2025 г , 01_12_05" src="https://github.com/user-attachments/assets/fc653da7-d86d-4214-b0e1-9c11fa070dd9" />
 
 ## Overview
 
